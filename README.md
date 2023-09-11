@@ -9,3 +9,6 @@ As started Above
 ## Deployment
 This is a sample Web Project
 ## How To Contribute
+
+## Copyright
+Git.Training
