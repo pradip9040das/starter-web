@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <!--
 	copyright Git.training
+<<<<<<< HEAD
+	Some changes
+=======
+	This changes are fron the feature
+>>>>>>> 07a0912 (fb adding some trouble to simple.html)
 -->
 <head>
+	<title>Some changes</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -14,10 +20,17 @@
 </head>
 <body>
 	<main class="container">
+	<!-- Junk Filler Content -->
 		<p>
+<<<<<<< HEAD
+			Just stuff for now
+=======
+			Pradip Das
+>>>>>>> 07a0912 (fb adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
+		<p>&copy; Pradip Das 2014</p>
 	</footer>
 </body>
 </html>
