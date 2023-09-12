@@ -12,4 +12,4 @@ This is a sample Web Project
 ## How To Contribute
 
 ## Copyright
-Git.Training
+Git.Training. All right reserved.
